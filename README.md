@@ -2,5 +2,5 @@
 
 # Practice in Class 6 second push
 
-<!-- # Practice in Class 6 third push -->
+# Practice in Class 6 third push
 
